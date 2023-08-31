@@ -1,0 +1,108 @@
+html{
+    font-size: 62.5%;
+}
+.header {
+    overflow: hidden;
+    background-color: #4b4a4a;
+    border-radius: 1rem;
+  
+  }
+
+  body {
+    background-color: #353434;
+  }
+
+  #logo {
+    width: 10rem;
+    border-radius: 100%;
+  }
+  
+  #worksheets {
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5rem;
+    margin-top: -2rem;
+    color: whitesmoke;
+    margin-top: -5rem;
+  
+  }
+  
+  #quiz {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    font-size: 3rem;
+    color: whitesmoke;
+    padding-right: 20rem;
+    margin-top: -5rem;
+  }
+  
+  #heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    color: whitesmoke;
+    padding-left: 11rem;
+    margin-top: -6rem;
+  }
+  
+  #about {
+    text-align: right;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    padding-right: 34rem;
+    margin-top: -6.8rem;
+  }
+  
+  #home {
+    text-align: right;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    padding-right: 45rem;
+    margin-top: -6.3rem;
+  }
+
+  #main{
+      font-size: 3rem;
+      color: whitesmoke;
+  }
+
+  #W2{
+      color: red;
+      text-align: center;
+      font-size: 3.5rem;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      border: 0.1rem dotted red;
+  }
+
+  @media(max-width: 998px) {
+    html {
+      font-size: 55%;
+    }
+  }
+  
+  @media(max-width: 768px) {
+    html {
+      font-size: 45%;
+    }
+  }
+  
+  @media(max-width: 685px) {
+    html {
+      font-size: 39%;
+    }
+  
+    @media(max-width: 500px) {
+      html {
+        font-size: 31%;
+      }
+    }
+  
+    @media(max-width: 400px) {
+      html {
+        font-size: 25%;
+      }
+    }
+  
+  }
