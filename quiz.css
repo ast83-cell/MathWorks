@@ -43,6 +43,24 @@ html {
   text-shadow: .2rem .2rem .2rem darkblue;
 }
 
+#c7titleSCI {
+  color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  padding-left: 4.5rem;
+  text-shadow: .2rem .2rem .2rem rgb(6, 181, 134);
+}
+
+#c7Science {
+  color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 4rem;
+  padding-left: 5.5rem;
+  text-shadow: .2rem .2rem .2rem darkblue;
+}
+
 
 #class7Maths {
   box-shadow: .3rem .3rem rgb(0, 0, 0);
