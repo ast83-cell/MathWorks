@@ -15,6 +15,15 @@ html {
   height: 20rem;
   border-radius: 1.5rem;
 }
+#class7Science {
+  background-color: rgb(103, 103, 103);
+  width: 25rem;
+  margin-left: 40rem;
+  margin-top: -23rem;
+  height: 20rem;
+  border-radius: 1.5rem;
+  box-shadow: 0.3rem 0.3rem 0.3rem black;
+}
 
 #c7title {
   color: rgb(255, 255, 255);

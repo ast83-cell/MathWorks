@@ -1,17 +1,22 @@
-html{
+html {
     font-size: 62.5%;
-}
-.header {
+  }
+  
+  
+  .header {
     overflow: hidden;
     background-color: #4b4a4a;
     border-radius: 1rem;
   
   }
-
+  
   body {
     background-color: #353434;
   }
-
+  
+  /* Style the header links */
+  
+  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
   #logo {
     width: 10rem;
     border-radius: 100%;
@@ -63,22 +68,8 @@ html{
     margin-top: -6.3rem;
   }
 
-  #main{
-      font-size: 3rem;
-      color: whitesmoke;
-  }
-
-  #W2{
-      color: red;
-      text-align: center;
-      font-size: 3.5rem;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-      border: 0.1rem dotted red;
-  }
-  
-  #ans{
-    color: red;
-    text-align: center;
+  #Ques{
+    color: whitesmoke;
     font-size: 3.5rem;
   }
 
